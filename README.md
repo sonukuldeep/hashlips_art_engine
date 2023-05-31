@@ -1,10 +1,13 @@
-# Welcome to HashLips 👄
+# Artwork generator v1 by Hashlips
 
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
+This project is entirely the work of Hashlips and all credit goes to him. 
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+This repo makes minor bug fixes to the original repo and nothing more. 
 
-To find out more please visit:
+
+All the code in these repos was created and explained by HashLips on the main YouTube [video](https://www.youtube.com/watch?v=cm3YiJ9mfaE&list=PLvfQp12V0hS3tHI5-4olIYqH6LM8YWL63&index=2).
+
+Links:
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 

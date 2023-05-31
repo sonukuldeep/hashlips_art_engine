@@ -24,8 +24,8 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
-    layersOrder: [
+    growEditionSizeTo: 5, // no of images that will be created
+    layersOrder: [ // check /layers/ to see below folders and image inside each folder along with their rarity
       { name: "Background" },
       { name: "Eyeball" },
       { name: "Eye color" },
@@ -71,10 +71,11 @@ const pixelFormat = {
   ratio: 2 / 128,
 };
 
-const background = {
-  generate: true,
+// a seperate background layer can be added in src folder too 
+const background = { // set background configuration here
+  generate: true, // stop background generation
   brightness: "80%",
-  static: false,
+  static: false, // true value causes the same background color for all images
   default: "#000000",
 };
 
